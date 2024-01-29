@@ -2,7 +2,7 @@
 
 * Clone the project:
 ```
-npx degit skillbalery/event-starter events
+npx degit skillbakery/event-starter events
 ```
 * Navigate to the project directory and install dependencies:
 ```
